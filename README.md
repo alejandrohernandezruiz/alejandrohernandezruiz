@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Alejandro! 👋
 
-<!--
-**alejandrohernandezruiz/alejandrohernandezruiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an **Industrial Engineering student** at **UPV** (Universidad Politécnica de Valencia) in Spain. 
 
-Here are some ideas to get you started:
+Currently, I am teaching myself **Python every single day** to combine the world of engineering with data power and automation. I am focused on mastering data analysis tools to solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ My Learning Stack
+- **Language:** Python 🧩 (Learning daily!)
+- **Data Libraries:** NumPy, Pandas, Matplotlib
+
+### 🚀 My Goals
+- Connect industrial engineering concepts with data science.
+- Build clean, useful, and well-documented Python projects.
+- Share my learning journey here on GitHub.
+
+### 📫 Connect with me
+- 💼 **LinkedIn:** 
+
+*"Errors are just unexpected learning opportunities."*
