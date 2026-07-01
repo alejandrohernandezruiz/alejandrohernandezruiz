@@ -15,5 +15,3 @@ Currently, I am teaching myself **Python every single day** to combine the world
 
 ### 📫 Connect with me
 - 💼 **LinkedIn:** 
-
-*"Errors are just unexpected learning opportunities."*
