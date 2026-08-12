@@ -14,4 +14,4 @@ Currently, I am teaching myself **Python every single day** to combine the world
 - Share my learning journey here on GitHub.
 
 ### 📫 Connect with me
-- 💼 **LinkedIn:** [![LinkedIn](https://shields.io)](https://www.linkedin.com/in/alejandro-hernandez-ruiz-ccv/) 
+- 💼 **LinkedIn:** [://linkedin.com](https://www.://linkedin.com/)
