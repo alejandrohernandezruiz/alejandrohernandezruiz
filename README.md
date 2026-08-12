@@ -5,7 +5,7 @@ I am an **Industrial Engineering student** at **UPV** (Universidad Politécnica 
 Currently, I am teaching myself **Python every single day** to combine the world of engineering with data power and automation. I am focused on mastering data analysis tools to solve real-world problems.
 
 ### 🛠️ My Learning Stack
-- **Language:** Python 🧩 (Learning daily!)
+- **Language:** Python 🧩 (Learning daily)
 - **Data Libraries:** NumPy, Pandas, Matplotlib
 
 ### 🚀 My Goals
@@ -14,4 +14,4 @@ Currently, I am teaching myself **Python every single day** to combine the world
 - Share my learning journey here on GitHub.
 
 ### 📫 Connect with me
-- 💼 **LinkedIn:** 
+- 💼 **LinkedIn:** [![LinkedIn](https://shields.io)](https://www.linkedin.com/in/alejandro-hernandez-ruiz-ccv/) 
